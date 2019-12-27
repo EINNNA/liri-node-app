@@ -3,7 +3,11 @@ Siri's little sister.
 
 How to use: 
 
-    type "node liri (a) (b)" in terminal
+    type 
+    
+    "node liri (a) (b)" 
+    
+    in terminal
 
 (a) = 
     concert-this // to search for concerts
